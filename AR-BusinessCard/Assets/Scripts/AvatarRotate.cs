@@ -8,6 +8,6 @@ public class AvatarRotate : MonoBehaviour
 
     void Update()
     {
-        transform.Rotate(rotate * Time.deltaTime);
+            transform.Rotate(rotate * Time.deltaTime);
     }
 }
